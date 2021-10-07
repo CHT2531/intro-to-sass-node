@@ -2,7 +2,8 @@
 If you aren't familiar with using command line tools, have a look at [Intro to the Command Prompt](intro-to-command-prompt.md) which explains the basics.
 
 ## Installing a Node.js version of Sass
-* Open the Node.js Command Prompt
+* Open the Node.js Command Prompt (it must be the Command Prompt)
+  * if you are doing this at home, you won't have a specialt Node.js Command Prompt and you can just use your regular Command Line interface e.g. Powershell. 
 * Enter the following:
 
 ```
